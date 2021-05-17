@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeSet;
 
-public class BallonProblem {
+public class BalloonProblem {
 
     // Assuming heightArr contains non-negative numbers
     public static int numberOfRequiredArrows(int[] heightArr) {
